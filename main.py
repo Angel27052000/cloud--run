@@ -60,7 +60,7 @@ def hello():
 
     """
 
-    return "spread love"
+    return "Hello world"
 
  
 
